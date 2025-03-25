@@ -30,13 +30,11 @@ first_name - User's first name.
 group1,group2 - Groups the user should be added to.
 
 To skip a line, start it with #.
-
 To add a user without any groups, use - in the groups field.
 
 Example input:
 
 user01:password123:Doe:John:group1,group2
-
 user02:password123:Smith:Jane:-
 
 ### Command Excuction
