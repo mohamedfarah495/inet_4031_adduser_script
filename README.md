@@ -24,9 +24,13 @@ username:password:last_name:first_name:group1,group2
 Field Breakdown:
 
 username - The system login name.
+
 password - The user's password.
+
 last_name - User's last name.
+
 first_name - User's first name.
+
 group1,group2 - Groups the user should be added to.
 
 To skip a line, start it with #.
